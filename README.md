@@ -1,4 +1,4 @@
-# Desafio Full Cycle - Clean Architecture - Notification Pattern
+# Desafio Full Cycle - Clean Architecture - Validator
 
 Antes de executar os testes instale as dependências com npm install
 
